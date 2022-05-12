@@ -40,4 +40,4 @@ for line in f:
         tn.write("exit\n")
 
         print tn.read_all()
-   
+   t=t+1
